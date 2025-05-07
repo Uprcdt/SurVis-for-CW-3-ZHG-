@@ -1,0 +1,149 @@
+@article{Ahmad2024Car,
+  abstract = {absent content},
+  author = {Ahmad, Muhammad and Farooq, Muhammad Ali and Zunnurain Hussain, Muhammad and Hasan, Muhammad Zulkifl and Mustafa, Muzzamil and Khalid, Aqsa and Awan, Rimsha and Hussain, Usman and Khan, Zohaib Ahmed and Javaid, Arslan},
+  doi = {10.1109/I2CT61223.2024.10544124},
+  journal = {IEEE 9th International Conference for Convergence in Technology (I2CT)},
+  keywords = {Vehicle Pricing, Machine Learning Models, Lasso Regression, Market Valuation},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {I2CT},
+  title = {Car Price Prediction using Machine Learning},
+url = {https://doi.org/10.1109/I2CT61223.2024.10544124},
+  year = {2024}
+}
+
+@article{Deepak2023Automobile,
+  abstract = {absent content},
+  author = {Deepak, N A and Kumar, Ravi and Gupta, Tarun and Gaurav, Shubham and Yadav, Pulkit Singh and Pranesh, B},
+  doi = {10.1109/IC-RVITM60032.2023.10435103},
+  journal = {International Conference on the Confluence of Advancements in Robotics, Vision and Interdisciplinary Technology Management (IC-RVITM)},
+  keywords = {Supervised Machine Learning, Linear Regression, Random Forest},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {IC-RVITM},
+  title = {Automobile Valuation Prediction Using Machine Learning based Algorithms},
+url = {https://doi.org/10.1109/IC-RVITM60032.2023.10435103},
+  year = {2023}
+}
+
+@article{Rafsan2025CarKoto,
+  abstract = {absent content},
+  author = {Rafsan, Raiyan and Rusho, Maher Ali and Ahsan, Jarif and Afrad, Rahimul Haque and Haque Dhrubo, Ahmed Faizul and Jahan, Md. Khurshid and Qayum, Mohammad Abdul},
+  doi = {10.1109/ICAIIC64266.2025.10920683},
+  journal = {International Conference on Artificial Intelligence in Information and Communication (ICAIIC)},
+  keywords = {XGBoost, Market Transparency, Data Preprocessing},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {ICAIIC},
+  title = {CarKoto: An AI-Powered Platform for Transparent and Precise Used Car Price Prediction in Bangladesh},
+url = {https://doi.org/10.1109/ICAIIC64266.2025.10920683},
+  year = {2025}
+}
+
+@article{Vijayalakshmi2024Analysis,
+  abstract = {absent content},
+  author = {Vijayalakshmi, Ch and Maheswari, R and Kavitha, Ch. and Lavanya, L. and Krishna, B.Vamsy and Kemidi, Madhavi},
+  doi = {10.1109/ICIPCN63822.2024.00033},
+  journal = {International Conference on Image Processing and Capsule Networks (ICIPCN)},
+  keywords = {Supervised Learning, Regression Analysis, Depreciation Modeling},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {ICIPCN},
+  title = {Analysis of Used Vehicle Value Prediction using Machine Learning},
+url = {https://doi.org/10.1109/ICIPCN63822.2024.00033},
+  year = {2024}
+}
+
+@article{Shanti2022Machine,
+  abstract = {Develops a mobile app with ensemble models achieving 90% testing accuracy for used car price prediction.},
+  author = {Shanti, Naser and Assi, Akram and Shakhshir, Hamza and Salman, Adnan},
+  doi = {10.1145/3502300.3502307},
+  journal = {Proceedings of the 3rd International Conference on Big-Data Service and Intelligent Computation},
+  keywords = {Mobile Application, Regression, Neural Networks},
+  number = {1},
+  publisher = {ACM},
+  volume = {22},
+  series = {BDSIC},
+  title = {Machine Learning-Powered Mobile App for Predicting Used Car Prices},
+  url = {https://doi.org/10.1145/3502300.3502307},
+  year = {2022}
+}
+
+@article{IOSPress202XPrice,
+  abstract = {absent content},
+  author = {absent content},
+  doi = {10.3233/APC210194},
+  journal = {IOS Press Ebooks},
+  keywords = {Ensemble Learning, Feature Engineering},
+  number = {1},
+  publisher = {IOS Press},
+  volume = {22},
+  series = {APC},
+  title = {Price Prediction for Pre-Owned Cars Using Ensemble Machine Learning Techniques},
+  url = {https://doi.org/10.3233/APC210194},
+  year = {2025}
+}
+
+@article{Sutaria2023Auto,
+  abstract = {absent content},
+  author = {Sutaria, Ruturaj and Jain, Reetu},
+  doi = {10.1109/INCET57972.2023.10170263},
+  journal = {International Conference for Emerging Technology (INCET)},
+  keywords = {Market Trends, Random Forest, Linear Regression},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {INCET},
+  title = {Auto-Price Forecast: An Analysis of Car Value Trends},
+url = {https://doi.org/10.1109/INCET57972.2023.10170263},
+  year = {2023}
+}
+
+@article{Wang2022Research,
+  abstract = {absent content},
+  author = {Wang, AoQiang and Yu, Qiancheng and Li, Xiaoning and Lu, Zekun and Yu, XuLong and Wang, ZhiCi},
+  doi = {10.1109/ICCNEA57056.2022.00032},
+  journal = {International Conference on Computer Network, Electronic and Automation (ICCNEA)},
+  keywords = {LightGBM, Feature Screening, Linear Regression},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {ICCNEA},
+  title = {Research on Used Car Valuation Problem Based on Machine Learning},
+url = {https://doi.org/10.1109/ICCNEA57056.2022.00032},
+  year = {2022}
+}
+
+@article{DasMou2021Comprehensive,
+  abstract = {absent content},
+  author = {Das Mou, Anamika and Saha, Protap Kumar and Nisher, Sumiya Akter and Saha, Anirban},
+  doi = {10.1109/ICICT4SD50815.2021.9396868},
+  journal = {International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD)},
+  keywords = {Customer Behavior, KNN, SVM},
+  number = {1},
+  publisher = {IEEE},
+  volume = {22},
+  series = {ICICT4SD},
+  title = {A Comprehensive Study of Machine Learning algorithms for Predicting Car Purchase Based on Customers Demands},
+url = {https://doi.org/10.1109/ICICT4SD50815.2021.9396868},
+  year = {2021}
+}
+
+@article{Saradha2024Price,
+  abstract = {absent content},
+  author = {S, Saradha and Vineeth, K. and Sreesharan, N. and Vigneshwaran, B. and Saravanan, B.},
+  doi = {10.1109/ICACCS60874.2024.10717072},
+  journal = {International Conference on Advanced Computing and Communication Systems (ICACCS)},
+  keywords = {Survey, Supervised Learning, Ensemble Methods},
+  number = {1},
+  publisher = {IEEE},
+  volume = {1},
+  series = {ICACCS},
+  title = {Price Prediction of Pre-Owned Automobiles Using Machine Learning-A Comprehensive Survey},
+url = {https://doi.org/10.1109/ICACCS60874.2024.10717072},
+  year = {2024}
+}
